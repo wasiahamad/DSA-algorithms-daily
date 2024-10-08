@@ -15,18 +15,14 @@ Algorithms are organized by their names and each solution is written in Java. Th
 ### 1. Searching Algorithms
 - Linear Search
 - Binary Search
-- Ternary Search
 
 ### 2. Sorting Algorithms
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Counting Sort
 - Merge Sort
 - Quick Sort
-- Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
 
 ### 3. Divide and Conquer Algorithms
 - Merge Sort
@@ -110,10 +106,3 @@ Algorithms are organized by their names and each solution is written in Java. Th
 - Monotonic Stack
 - Sliding Window Technique
 - Two Pointer Technique
-
----
-
-<<<<<<< HEAD
-=======
-
->>>>>>> d2f35e3fa2cb6e76f3150201acb5d582c93dc6a2

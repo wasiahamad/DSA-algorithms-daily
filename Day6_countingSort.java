@@ -28,7 +28,7 @@ public class Day6_countingSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {4, 2, 2, 8, 3,};
+        int[] arr = {4, 2, 1, 8, 3,};
         countingSort(arr);
         print(arr);
     }
