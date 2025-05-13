@@ -7,7 +7,7 @@ This repository contains my daily implementations of **Data Structures and Algor
 
 ## Repository Structure 🗂️
 
-Algorithms are organized by their names and each solution is written in Java. The structure will be as follows:
+Algorithms are organized by their names and each solution is written in Java. The structure will be as follows:-
 
 
 ## Algorithms List
